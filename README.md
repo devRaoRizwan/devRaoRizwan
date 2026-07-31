@@ -14,7 +14,6 @@
 ![Backend](https://img.shields.io/badge/⚙-Backend-1a1a1a?style=flat-square)
 ![Django](https://img.shields.io/badge/🚀-Django-1a1a1a?style=flat-square)
 ![Docker](https://img.shields.io/badge/☁-Docker-1a1a1a?style=flat-square)
-
 </div>
 
 ## Introduction
