@@ -8,7 +8,7 @@
 	<a href="mailto:dev.raorizwan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://linkedin.com/in/raorixwan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://leetcode.com/u/devraorizwan/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
-	<a href="https://rao-rizwan-resume.vercel.app/"><img src="https://img.shields.io/badge/Resume-4B5563?style=flat-square&logo=readdotcv&logoColor=white" alt="Resume"/></a>
+	<a href="https://github.com/devRaoRizwan/devRaoRizwan/blob/main/RaoRizwan_Resume.pdf"><img src="https://img.shields.io/badge/Resume-4B5563?style=flat-square&logo=readdotcv&logoColor=white" alt="Resume"/></a>
 </p>
 
 <p align="center">📍 Lahore, Pakistan</p>
