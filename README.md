@@ -23,12 +23,7 @@ I build Python backend systems that hold up under production traffic — REST AP
 
 Own CI/CD delivery and cloud security posture for backend services — pipelines, provisioning, and auth, end to end.
 
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/OAuth_2.0-3C3C3C?style=flat-square&logo=auth0&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white" />
-<img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=flask,aws,azure,gcp,git&theme=light" height="40" />
 
 - Built CI/CD pipelines on AWS CodeCommit, CodePipeline & GitHub Actions to automate build, test, and release
 - Provisioned EC2, S3, and IAM roles under least-privilege access
@@ -42,14 +37,7 @@ Own CI/CD delivery and cloud security posture for backend services — pipelines
 
 Owned the core API and data layer for a product handling 100K+ daily requests — from schema to background jobs to the scrapers feeding it.
 
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/DRF-A30000?style=flat-square&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" />
-<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=django,postgres,mongodb,redis,docker&theme=light" height="40" />
 
 - Shipped Django REST Framework APIs serving 100K+ daily requests in production
 - Moved scraping and report generation off the request path with Celery + RabbitMQ workers
@@ -66,11 +54,7 @@ Owned the core API and data layer for a product handling 100K+ daily requests �
 
 </div>
 
-**CI/CD:** 
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS_CodePipeline-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS_CodeCommit-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white" />
+**Also:** Celery · RabbitMQ · OAuth 2.0 / JWT · GitHub Actions · AWS CodePipeline / CodeCommit
 
 ---
 
