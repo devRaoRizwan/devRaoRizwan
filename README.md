@@ -1,13 +1,12 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/devRaoRizwan/devRaoRizwan/main/banner.png" alt="Rao Rizwan — Backend Engineer" width="100%" />
-
 # Rao Rizwan
 **Backend Engineer** · Python · Django REST Framework · PostgreSQL · AWS
 
 <a href="https://linkedin.com/in/raorixwan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:dev.raorizwan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 <a href="https://rao-rizwan-resume.vercel.app/"><img src="https://img.shields.io/badge/Resume-4B5563?style=flat-square&logo=readdotcv&logoColor=white" /></a>
+<a href="https://leetcode.com/u/devraorizwan/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" /></a>
 
 </div>
 
@@ -19,14 +18,43 @@ I build Python backend systems that hold up under production traffic — REST AP
 
 ### 💼 Experience
 
-**Software Engineer**, Broadstone Technologies · 2026–Present
-**Backend Engineer**, Programmers Force · 2024–2026
+**Software Engineer** · Broadstone Technologies
+*2026 – Present*
+
+Own CI/CD delivery and cloud security posture for backend services — pipelines, provisioning, and auth, end to end.
+
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/OAuth_2.0-3C3C3C?style=flat-square&logo=auth0&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white" />
+<img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+
+- Built CI/CD pipelines on AWS CodeCommit, CodePipeline & GitHub Actions to automate build, test, and release
+- Provisioned EC2, S3, and IAM roles under least-privilege access
+- Implemented OAuth 2.0 / service-to-service auth across AWS, Azure DevOps, GCP, and GitHub
+- Embedded automated vulnerability scanning and AI bill-of-materials (AIBOM) checks into every pipeline run
+
+<br>
+
+**Backend Engineer** · Programmers Force
+*2024 – 2026*
+
+Owned the core API and data layer for a product handling 100K+ daily requests — from schema to background jobs to the scrapers feeding it.
+
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/DRF-A30000?style=flat-square&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" />
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" />
 
 - Shipped Django REST Framework APIs serving 100K+ daily requests in production
-- Implemented OAuth 2.0 auth across AWS, Azure DevOps, GCP, and GitHub
-- Moved scraping & reporting to background workers with Celery + RabbitMQ
-- Ran CI/CD on AWS CodePipeline & GitHub Actions; provisioned EC2/S3/IAM
-- Tuned PostgreSQL & MongoDB schemas and queries for high-throughput workloads
+- Moved scraping and report generation off the request path with Celery + RabbitMQ workers
+- Tuned PostgreSQL and MongoDB schemas and queries for high read/write throughput
+- Built and containerized resilient scraping pipelines (BeautifulSoup4, Selenium) behind JobHarvester and Jobbr
 
 ---
 
@@ -34,9 +62,15 @@ I build Python backend systems that hold up under production traffic — REST AP
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,django,fastapi,postgres,mongodb,redis,docker,aws,git&theme=light" />
+<img src="https://skillicons.dev/icons?i=py,flask,fastapi,django,postgres,mongodb,redis,docker,aws,gcp,azure,git&theme=light" />
 
 </div>
+
+**CI/CD:** 
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS_CodePipeline-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS_CodeCommit-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white" />
 
 ---
 
