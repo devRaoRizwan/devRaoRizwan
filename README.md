@@ -1,77 +1,112 @@
-<div align="center">
+<h1 align="center">Hi, I'm Rao Rizwan 👋</h1>
 
-# Rao Rizwan
-**Backend Engineer** · Python · Django REST Framework · PostgreSQL · AWS
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2496ED&center=true&width=480&lines=Backend+Engineer;Python+%7C+Django+REST+Framework;Building+APIs+at+100K%2B+req%2Fday;CI%2FCD+%7C+AWS+%7C+Cloud+Security" alt="typing-svg" />
+</p>
 
-<a href="https://linkedin.com/in/raorixwan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:dev.raorizwan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-<a href="https://rao-rizwan-resume.vercel.app/"><img src="https://img.shields.io/badge/Resume-4B5563?style=flat-square&logo=readdotcv&logoColor=white" /></a>
-<a href="https://leetcode.com/u/devraorizwan/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" /></a>
+<p align="center">
+	<a href="mailto:dev.raorizwan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://linkedin.com/in/raorixwan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://leetcode.com/u/devraorizwan/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
+	<a href="https://rao-rizwan-resume.vercel.app/"><img src="https://img.shields.io/badge/Resume-4B5563?style=flat-square&logo=readdotcv&logoColor=white" alt="Resume"/></a>
+</p>
 
-</div>
-
-<br>
-
-I build Python backend systems that hold up under production traffic — REST APIs, auth, async pipelines, and CI/CD. Currently maintaining APIs serving **100K+ daily requests**.
+<p align="center">📍 Lahore, Pakistan</p>
 
 ---
 
-### 💼 Experience
+### Experience
 
-**Software Engineer** · Broadstone Technologies
-*2026 – Present*
+**Software Engineer** · Broadstone Technologies · 2026–Present
+CI/CD delivery and cloud security for backend services, end to end.
 
-Own CI/CD delivery and cloud security posture for backend services — pipelines, provisioning, and auth, end to end.
+<p>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure-0078D7?style=flat-square&logo=azuredevops&logoColor=white"/>
+<img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/OAuth_2.0-EB5424?style=flat-square&logo=auth0&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=flask,aws,azure,gcp,git&theme=light" height="40" />
-
-- Built CI/CD pipelines on AWS CodeCommit, CodePipeline & GitHub Actions to automate build, test, and release
+- Built CI/CD pipelines on AWS CodeCommit, CodePipeline & GitHub Actions
 - Provisioned EC2, S3, and IAM roles under least-privilege access
-- Implemented OAuth 2.0 / service-to-service auth across AWS, Azure DevOps, GCP, and GitHub
-- Embedded automated vulnerability scanning and AI bill-of-materials (AIBOM) checks into every pipeline run
+- Implemented OAuth 2.0 auth across AWS, Azure DevOps, GCP, and GitHub
+- Embedded automated vulnerability scanning and AIBOM checks into CI/CD
 
-<br>
+**Backend Engineer** · Programmers Force · 2024–2026
+Core API and data layer for a product handling 100K+ daily requests.
 
-**Backend Engineer** · Programmers Force
-*2024 – 2026*
+<p>
+<img src="https://img.shields.io/badge/Django_REST-092E20?style=flat-square&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white"/>
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/>
+</p>
 
-Owned the core API and data layer for a product handling 100K+ daily requests — from schema to background jobs to the scrapers feeding it.
-
-<img src="https://skillicons.dev/icons?i=django,postgres,mongodb,redis,docker&theme=light" height="40" />
-
-- Shipped Django REST Framework APIs serving 100K+ daily requests in production
-- Moved scraping and report generation off the request path with Celery + RabbitMQ workers
-- Tuned PostgreSQL and MongoDB schemas and queries for high read/write throughput
-- Built and containerized resilient scraping pipelines (BeautifulSoup4, Selenium) behind JobHarvester and Jobbr
-
----
-
-### 🛠 Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=py,flask,fastapi,django,postgres,mongodb,redis,docker,aws,gcp,azure,git&theme=light" />
-
-</div>
-
-**Also:** Celery · RabbitMQ · OAuth 2.0 / JWT · GitHub Actions · AWS CodePipeline / CodeCommit
+- Shipped Django REST Framework APIs serving 100K+ daily requests
+- Moved scraping and reporting to background workers with Celery + RabbitMQ
+- Tuned PostgreSQL and MongoDB schemas for high read/write throughput
+- Built scraping pipelines (BeautifulSoup4, Selenium) behind JobHarvester and Jobbr
 
 ---
 
-### 🚀 Projects
-
-<table>
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="55%" valign="top">
 
-**[JobHarvester](https://job-harvester-demo.vercel.app)**
-Job aggregation platform — Scrapy pipeline crawling local tech companies, served via Django REST + PostgreSQL.
+### ⚡ Stack
+
+**Languages & Frameworks**
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+</p>
+
+**Databases**
+<p>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+</p>
+
+**Cloud & Infra**
+<p>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure-0078D7?style=flat-square&logo=azuredevops&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+</p>
+
+**Async & CI/CD**
+<p>
+<img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white"/>
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS_CodePipeline-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+</p>
+
+**Auth & API**
+<p>
+<img src="https://img.shields.io/badge/OAuth_2.0-EB5424?style=flat-square&logo=auth0&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swagger/OpenAPI-85EA2D?style=flat-square&logo=swagger&logoColor=black"/>
+</p>
 
 </td>
-<td width="50%" valign="top">
+<td width="45%" valign="top">
 
-**Jobbr**
-Job board API with JWT auth, role-based access, resume uploads, and Swagger docs.
+### 🔭 Currently
+
+- Maintaining production APIs serving 100K+ daily requests
+- Building out CI/CD and cloud security tooling at Broadstone Technologies
+- Exploring event-driven architecture and high-throughput service design
 
 </td>
 </tr>
@@ -79,6 +114,7 @@ Job board API with JWT auth, role-based access, resume uploads, and Swagger docs
 
 ---
 
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=devRaoRizwan&theme=default&hide_border=true" alt="GitHub Streak" height="140px" />
-</div>
+### 🚀 Projects
+
+**[JobHarvester](https://job-harvester-demo.vercel.app)** — Job aggregation platform: Scrapy pipeline + Django REST + PostgreSQL.
+**Jobbr** — Job board API with JWT auth, role-based access, resume uploads, Swagger docs.
