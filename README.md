@@ -127,14 +127,70 @@ Core API and data layer for a product handling 100K+ daily requests.
 
 ### 🚀 Projects
 
-**[SiteScopia](https://sitescopia.online/)** · Live · [Source](https://github.com/devRaoRizwan/sitescopia)
-Website analyzer covering SEO, accessibility, security and performance. A FastAPI backend parses a page into structured facts and runs independent analyzers as background jobs, hardened against SSRF with URL validation, rate limiting and per-job access tokens. React and Vite on the front.
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-**[JobHarvester](https://job-harvester-demo.vercel.app)** · Live · [Source](https://github.com/devRaoRizwan/JobHarvesterDemo)
-Job aggregation for the Pakistani tech market, serving 1,300+ live listings. Django REST API and PostgreSQL data model behind scheduled BeautifulSoup4 and Selenium crawlers, with search and filtering by keyword, experience level and job type.
+#### 🔍 SiteScopia
+<img src="https://img.shields.io/badge/status-live-2EA043?style=flat-square" alt="live"/>
 
-**[BOMWatch](https://github.com/devRaoRizwan/BOMWatch)** · In progress
-Connects your repositories through a GitHub App, injects a scanning workflow by pull request, and ingests the resulting CycloneDX AI-BOM artifact over a webhook for dashboard reporting, so source code never leaves GitHub. FastAPI, SQLAlchemy and PostgreSQL.
+Website analyzer for SEO, accessibility, security and performance. A FastAPI backend parses a page into structured facts and runs independent analyzers as background jobs, hardened against SSRF with rate limiting and per-job access tokens.
 
-**[Jobbr](https://github.com/devRaoRizwan/jobbr)** · Source
-Job board REST API with JWT auth and role-based access separating employers from job seekers, plus resume uploads, advanced filtering and Swagger/OpenAPI docs. Django REST Framework.
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+
+[**🌐 Live Site**](https://sitescopia.online/) · [**💻 Source**](https://github.com/devRaoRizwan/sitescopia)
+
+</td>
+<td width="50%" valign="top">
+
+#### 🧲 JobHarvester
+<img src="https://img.shields.io/badge/status-live-2EA043?style=flat-square" alt="live"/>
+<img src="https://img.shields.io/badge/listings-1%2C300%2B-0B57D0?style=flat-square" alt="listings"/>
+
+Job aggregation for the Pakistani tech market. Django REST API and PostgreSQL data model behind scheduled crawlers, with search and filtering by keyword, experience level and job type.
+
+<img src="https://img.shields.io/badge/Django_REST-092E20?style=flat-square&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+
+[**🌐 Live Site**](https://job-harvester-demo.vercel.app) · [**💻 Source**](https://github.com/devRaoRizwan/JobHarvesterDemo)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🛡️ BOMWatch
+<img src="https://img.shields.io/badge/status-in%20progress-D29922?style=flat-square" alt="in progress"/>
+
+Connects your repositories through a GitHub App, injects a scanning workflow by pull request, and ingests the resulting CycloneDX AI-BOM artifact over a webhook for dashboard reporting. Source code never leaves GitHub.
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+
+[**💻 Source**](https://github.com/devRaoRizwan/BOMWatch)
+
+</td>
+<td width="50%" valign="top">
+
+#### 💼 Jobbr
+<img src="https://img.shields.io/badge/status-complete-6E7681?style=flat-square" alt="complete"/>
+
+Job board REST API with JWT auth and role-based access separating employers from job seekers, plus resume uploads, advanced filtering and Swagger/OpenAPI docs.
+
+<img src="https://img.shields.io/badge/Django_REST-092E20?style=flat-square&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black"/>
+
+[**💻 Source**](https://github.com/devRaoRizwan/jobbr)
+
+</td>
+</tr>
+</table>
