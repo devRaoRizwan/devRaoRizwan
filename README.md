@@ -114,7 +114,7 @@ Core API and data layer for a product handling 100K+ daily requests.
 
 ### 🔭 Currently
 
-- Building **BOMWatch**, a CycloneDX AI-BOM scanner that inventories dependencies and AI models straight from GitHub Actions
+- Shipped **BOMWatcher**, a CycloneDX AI-BOM scanner that inventories dependencies, AI models and AI services from a scan running on your own Actions minutes
 - Running **SiteScopia** in production, a FastAPI website analyzer for SEO, accessibility, security and performance
 - Exploring event-driven architecture, microservices and high-throughput service design
 - Open to backend engineering roles in Python and Django, remote or Lahore-based
@@ -164,17 +164,19 @@ Job aggregation for the Pakistani tech market. Django REST API and PostgreSQL da
 <tr>
 <td width="50%" valign="top">
 
-#### 🛡️ BOMWatch
-<img src="https://img.shields.io/badge/status-in%20progress-D29922?style=flat-square" alt="in progress"/>
+#### 🛡️ BOMWatcher
+<img src="https://img.shields.io/badge/status-live-2EA043?style=flat-square" alt="live"/>
+<img src="https://img.shields.io/badge/CycloneDX-1.6-000000?style=flat-square" alt="cyclonedx 1.6"/>
 
-Connects your repositories through a GitHub App, injects a scanning workflow by pull request, and ingests the resulting CycloneDX AI-BOM artifact over a webhook for dashboard reporting. Source code never leaves GitHub.
+Generates a CycloneDX AI-BOM for your GitHub repos: dependencies with licenses, hosted AI services, and Hugging Face models. Opens a PR to add the workflow, scans on your own Actions runners, and only ever receives the finished report, so source code never leaves GitHub.
 
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
 
-[**💻 Source**](https://github.com/devRaoRizwan/BOMWatch)
+[**🌐 Live Site**](https://bomwatcher.vercel.app) · [**💻 Source**](https://github.com/devRaoRizwan/bomwatcher)
 
 </td>
 <td width="50%" valign="top">
