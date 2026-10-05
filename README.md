@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Rao Rizwan </h1>
+<h1 align="center">Hi, I'm Rao Rizwan  </h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2496ED&center=true&width=480&lines=Backend+Engineer;Python+%7C+Django+REST+Framework;Building+APIs+at+100K%2B+req%2Fday;CI%2FCD+%7C+AWS+%7C+Cloud+Security" alt="typing-svg" />
