@@ -22,7 +22,7 @@ Backend engineer with 2+ years building production Python systems. Django REST F
 
 ### Experience
 
-**Software Engineer** · Broadstone Technologies · Apr 2026 – Sep 2026
+**Backend Developer (Python)** · Broadstone Technologies · Jun 2026 – Aug 2026
 Backend APIs, CI/CD delivery and cloud security, end to end.
 
 <p>
@@ -40,7 +40,7 @@ Backend APIs, CI/CD delivery and cloud security, end to end.
 - Provisioned EC2, S3 and IAM roles under least-privilege access
 - Implemented OAuth 2.0 service-to-service auth across AWS, Azure DevOps, GCP and GitHub
 
-**Backend Engineer** · Programmers Force · Jun 2024 – Apr 2026
+**Associate Software Engineer** · Programmers Force · Jul 2024 – Apr 2026
 Core API and data layer for a product handling 100K+ daily requests.
 
 <p>
